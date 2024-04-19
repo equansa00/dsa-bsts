@@ -1,6 +1,3 @@
-Here's the revised version of your text with Markdown and "Copy code" removed:
-
----
 
 Binary Search Tree Exercises
 
